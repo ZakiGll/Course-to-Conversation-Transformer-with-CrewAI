@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/course-to-conversation.git
+git clone https://github.com/ZakiGll/Course-to-Conversation-Transformer-with-CrewAI.git
 
 # Navigate to the project directory
 cd course-to-conversation
